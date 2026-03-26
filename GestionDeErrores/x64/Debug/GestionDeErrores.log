@@ -1,12 +1,2 @@
-﻿  Biblioteca.cpp
-  GestionDeErrores.cpp
-  Libro.cpp
-C:\Users\inigo\OneDrive\Documentos\Euneiz\Tecnologia_de_la_programación\GestionDeErrores\GestionDeErrores\GestionDeErrores.cpp(20,1): error C2143: error de sintaxis: falta ';' delante de '}'
-C:\Users\inigo\OneDrive\Documentos\Euneiz\Tecnologia_de_la_programación\GestionDeErrores\GestionDeErrores\GestionDeErrores.cpp(43,18): error C2143: error de sintaxis: falta ';' delante de 'std::cout'
-C:\Users\inigo\OneDrive\Documentos\Euneiz\Tecnologia_de_la_programación\GestionDeErrores\GestionDeErrores\GestionDeErrores.cpp(89,28): error C2660: 'Biblioteca::prestarLibro': la función no acepta 0 argumentos
-      C:\Users\inigo\OneDrive\Documentos\Euneiz\Tecnologia_de_la_programación\GestionDeErrores\GestionDeErrores\Biblioteca.h(23,10):
-      vea la declaración de 'Biblioteca::prestarLibro'
-      C:\Users\inigo\OneDrive\Documentos\Euneiz\Tecnologia_de_la_programación\GestionDeErrores\GestionDeErrores\GestionDeErrores.cpp(89,28):
-      al hacer coincidir la lista de argumentos '()'
-  
-  Generando código...
+﻿  GestionDeErrores.cpp
+  GestionDeErrores.vcxproj -> C:\Users\EnekoIglesiasGaldean\source\repos\GestionDeErrores\x64\Debug\GestionDeErrores.exe

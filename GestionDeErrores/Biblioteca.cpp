@@ -3,6 +3,7 @@
 
 Biblioteca::Biblioteca()
 {
+    cantidad = 0;
     capacidad = 5;
     libros = new Libro[capacidad];
 }
@@ -152,7 +153,7 @@ void Biblioteca::mostrarDisponibles() const
 
     for (int i = 0; i < cantidad; i++)
     {
-        if (libros[i].estaPrestado())
+        if (!libros[i].estaPrestado())
         {
             libros[i].mostrar();
             hayDisponibles = true;
@@ -171,7 +172,7 @@ void Biblioteca::mostrarPrestados() const
 
     for (int i = 0; i < cantidad; i++)
     {
-        if (!libros[i].estaPrestado())
+        if (libros[i].estaPrestado())
         {
             libros[i].mostrar();
             hayPrestados = true;

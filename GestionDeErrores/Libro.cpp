@@ -6,6 +6,7 @@ Libro::Libro()
     id = 0;
     titulo = "Sin titulo";
     autor = "Desconocido";
+    prestado = false;
 }
 
 Libro::Libro(int id, const std::string& titulo, const std::string& autor)

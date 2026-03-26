@@ -16,18 +16,19 @@ void mostrarMenu()
     std::cout << "8. Mostrar prestados" << std::endl;
     std::cout << "9. Probar copia de biblioteca" << std::endl;
     std::cout << "0. Salir" << std::endl;
-    std::cout << "Opcion: "
+    std::cout << "Opcion: ";
 }
 
 int main()
 {
-    Biblioteca biblioteca(3);
+    Biblioteca biblioteca;
 
     biblioteca.agregarLibro(Libro(1, "1984", "George Orwell"));
     biblioteca.agregarLibro(Libro(2, "El Hobbit", "J.R.R. Tolkien"));
     biblioteca.agregarLibro(Libro(3, "Dune", "Frank Herbert"));
-
+    
     int opcion = -1;
+    
 
     while (opcion != 0)
     {
@@ -38,24 +39,32 @@ int main()
         {
         case 1:
         {
+            system("cls");
+
             int id;
             std::string titulo;
-            std::string autor
+            std::string autor;
 
             std::cout << "ID: ";
             std::cin >> id;
 
             std::cout << "Titulo: ";
-            std::getline(std::cin, titulo);
+            std::cin >> titulo;
 
             std::cout << "Autor: ";
-            std::getline(std::cin, autor);
+            std::cin >> autor;
 
             biblioteca.agregarLibro(Libro(id, titulo, autor));
+
+            system("pause");
+            system("cls");
+
             break;
         }
         case 2:
         {
+            system("cls");
+
             int id;
             std::cout << "ID del libro a eliminar: ";
             std::cin >> id;
@@ -68,25 +77,37 @@ int main()
             {
                 std::cout << "No se encontro ningun libro con ese ID." << std::endl;
             }
+
+            system("pause");
+            system("cls");
+
             break;
         }
         case 3:
         {
+            system("cls");
+
             int id;
             std::cout << "ID del libro a buscar: ";
             std::cin >> id;
 
             Libro* libro = biblioteca.buscarLibroPorId(id);
-            libro.mostrar();
+            libro->mostrar();
+
+            system("pause");
+            system("cls");
+
             break;
         }
         case 4:
         {
+            system("cls");
+
             int id;
             std::cout << "ID del libro a prestar: ";
             std::cin >> id;
 
-            if (biblioteca.prestarLibro())
+            if (biblioteca.prestarLibro(id))
             {
                 std::cout << "Libro prestado correctamente." << std::endl;
             }
@@ -94,10 +115,16 @@ int main()
             {
                 std::cout << "No se pudo prestar el libro." << std::endl;
             }
+
+            system("pause");
+            system("cls");
+
             break;
         }
         case 5:
         {
+            system("cls");
+
             int id;
             std::cout << "ID del libro a devolver: ";
             std::cin >> id;
@@ -110,22 +137,46 @@ int main()
             {
                 std::cout << "No se pudo devolver el libro." << std::endl;
             }
+
+            system("pause");
+            system("cls");
+
             break;
         }
         case 6:
+            system("cls");
+
             biblioteca.mostrarLibros();
+
+            system("pause");
+            system("cls");
+
             break;
 
         case 7:
+            system("cls");
+
             biblioteca.mostrarDisponibles();
+
+            system("pause");
+            system("cls");
+
             break;
 
         case 8:
+            system("cls");
+
             biblioteca.mostrarPrestados();
+
+            system("pause");
+            system("cls");
+
             break;
 
         case 9:
         {
+            system("cls");
+
             Biblioteca copia = biblioteca;
 
             std::cout << std::endl;
@@ -148,14 +199,24 @@ int main()
             std::cout << "Copia tras modificarse:" << std::endl;
             copia.mostrarLibros();
 
+            system("pause");
+            system("cls");
+
             break;
         }
         case 0:
+            system("cls");
+
             std::cout << "Saliendo del programa..." << std::endl;
             break;
 
         default:
+            system("cls");
+
             std::cout << "Opcion no valida." << std::endl;
+
+            system("pause");
+            system("cls");
         }
     }
 

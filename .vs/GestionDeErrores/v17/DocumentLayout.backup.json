@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\inigo\\OneDrive\\Documentos\\Euneiz\\Tecnologia_de_la_programaci\u00F3n\\GestionDeErrores\\",
+  "WorkspaceRootPath": "C:\\Users\\EnekoIglesiasGaldean\\source\\repos\\GestionDeErrores\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5168BFA-BDB8-47C8-82E1-27B176501501}|GestionDeErrores\\GestionDeErrores.vcxproj|C:\\Users\\inigo\\OneDrive\\Documentos\\Euneiz\\Tecnologia_de_la_programaci\u00F3n\\GestionDeErrores\\GestionDeErrores\\Biblioteca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F5168BFA-BDB8-47C8-82E1-27B176501501}|GestionDeErrores\\GestionDeErrores.vcxproj|solutionrelative:GestionDeErrores\\Biblioteca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5168BFA-BDB8-47C8-82E1-27B176501501}|GestionDeErrores\\GestionDeErrores.vcxproj|C:\\Users\\inigo\\OneDrive\\Documentos\\Euneiz\\Tecnologia_de_la_programaci\u00F3n\\GestionDeErrores\\GestionDeErrores\\Libro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F5168BFA-BDB8-47C8-82E1-27B176501501}|GestionDeErrores\\GestionDeErrores.vcxproj|solutionrelative:GestionDeErrores\\Libro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5168BFA-BDB8-47C8-82E1-27B176501501}|GestionDeErrores\\GestionDeErrores.vcxproj|C:\\Users\\inigo\\OneDrive\\Documentos\\Euneiz\\Tecnologia_de_la_programaci\u00F3n\\GestionDeErrores\\GestionDeErrores\\GestionDeErrores.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F5168BFA-BDB8-47C8-82E1-27B176501501}|GestionDeErrores\\GestionDeErrores.vcxproj|C:\\Users\\EnekoIglesiasGaldean\\source\\repos\\GestionDeErrores\\GestionDeErrores\\GestionDeErrores.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F5168BFA-BDB8-47C8-82E1-27B176501501}|GestionDeErrores\\GestionDeErrores.vcxproj|solutionrelative:GestionDeErrores\\GestionDeErrores.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5168BFA-BDB8-47C8-82E1-27B176501501}|GestionDeErrores\\GestionDeErrores.vcxproj|C:\\Users\\inigo\\OneDrive\\Documentos\\Euneiz\\Tecnologia_de_la_programaci\u00F3n\\GestionDeErrores\\GestionDeErrores\\Biblioteca.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F5168BFA-BDB8-47C8-82E1-27B176501501}|GestionDeErrores\\GestionDeErrores.vcxproj|C:\\Users\\EnekoIglesiasGaldean\\source\\repos\\GestionDeErrores\\GestionDeErrores\\Biblioteca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5168BFA-BDB8-47C8-82E1-27B176501501}|GestionDeErrores\\GestionDeErrores.vcxproj|solutionrelative:GestionDeErrores\\Biblioteca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5168BFA-BDB8-47C8-82E1-27B176501501}|GestionDeErrores\\GestionDeErrores.vcxproj|C:\\Users\\EnekoIglesiasGaldean\\source\\repos\\GestionDeErrores\\GestionDeErrores\\Biblioteca.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F5168BFA-BDB8-47C8-82E1-27B176501501}|GestionDeErrores\\GestionDeErrores.vcxproj|solutionrelative:GestionDeErrores\\Biblioteca.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5168BFA-BDB8-47C8-82E1-27B176501501}|GestionDeErrores\\GestionDeErrores.vcxproj|C:\\Users\\inigo\\OneDrive\\Documentos\\Euneiz\\Tecnologia_de_la_programaci\u00F3n\\GestionDeErrores\\GestionDeErrores\\Libro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F5168BFA-BDB8-47C8-82E1-27B176501501}|GestionDeErrores\\GestionDeErrores.vcxproj|C:\\Users\\EnekoIglesiasGaldean\\source\\repos\\GestionDeErrores\\GestionDeErrores\\Libro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5168BFA-BDB8-47C8-82E1-27B176501501}|GestionDeErrores\\GestionDeErrores.vcxproj|solutionrelative:GestionDeErrores\\Libro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5168BFA-BDB8-47C8-82E1-27B176501501}|GestionDeErrores\\GestionDeErrores.vcxproj|C:\\Users\\EnekoIglesiasGaldean\\source\\repos\\GestionDeErrores\\GestionDeErrores\\Libro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F5168BFA-BDB8-47C8-82E1-27B176501501}|GestionDeErrores\\GestionDeErrores.vcxproj|solutionrelative:GestionDeErrores\\Libro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -30,52 +30,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Biblioteca.cpp",
-              "DocumentMoniker": "C:\\Users\\inigo\\OneDrive\\Documentos\\Euneiz\\Tecnologia_de_la_programaci\u00F3n\\GestionDeErrores\\GestionDeErrores\\Biblioteca.cpp",
+              "DocumentMoniker": "C:\\Users\\EnekoIglesiasGaldean\\source\\repos\\GestionDeErrores\\GestionDeErrores\\Biblioteca.cpp",
               "RelativeDocumentMoniker": "GestionDeErrores\\Biblioteca.cpp",
-              "ToolTip": "C:\\Users\\inigo\\OneDrive\\Documentos\\Euneiz\\Tecnologia_de_la_programaci\u00F3n\\GestionDeErrores\\GestionDeErrores\\Biblioteca.cpp",
+              "ToolTip": "C:\\Users\\EnekoIglesiasGaldean\\source\\repos\\GestionDeErrores\\GestionDeErrores\\Biblioteca.cpp",
               "RelativeToolTip": "GestionDeErrores\\Biblioteca.cpp",
-              "ViewState": "AgIAAKgAAAAAAAAAAAAqwMIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAK4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-26T07:55:45.901Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Biblioteca.h",
-              "DocumentMoniker": "C:\\Users\\inigo\\OneDrive\\Documentos\\Euneiz\\Tecnologia_de_la_programaci\u00F3n\\GestionDeErrores\\GestionDeErrores\\Biblioteca.h",
+              "DocumentMoniker": "C:\\Users\\EnekoIglesiasGaldean\\source\\repos\\GestionDeErrores\\GestionDeErrores\\Biblioteca.h",
               "RelativeDocumentMoniker": "GestionDeErrores\\Biblioteca.h",
-              "ToolTip": "C:\\Users\\inigo\\OneDrive\\Documentos\\Euneiz\\Tecnologia_de_la_programaci\u00F3n\\GestionDeErrores\\GestionDeErrores\\Biblioteca.h",
+              "ToolTip": "C:\\Users\\EnekoIglesiasGaldean\\source\\repos\\GestionDeErrores\\GestionDeErrores\\Biblioteca.h",
               "RelativeToolTip": "GestionDeErrores\\Biblioteca.h",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-26T07:55:27.697Z"
+              "WhenOpened": "2026-03-26T07:55:27.697Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Libro.cpp",
-              "DocumentMoniker": "C:\\Users\\inigo\\OneDrive\\Documentos\\Euneiz\\Tecnologia_de_la_programaci\u00F3n\\GestionDeErrores\\GestionDeErrores\\Libro.cpp",
+              "DocumentMoniker": "C:\\Users\\EnekoIglesiasGaldean\\source\\repos\\GestionDeErrores\\GestionDeErrores\\Libro.cpp",
               "RelativeDocumentMoniker": "GestionDeErrores\\Libro.cpp",
-              "ToolTip": "C:\\Users\\inigo\\OneDrive\\Documentos\\Euneiz\\Tecnologia_de_la_programaci\u00F3n\\GestionDeErrores\\GestionDeErrores\\Libro.cpp",
+              "ToolTip": "C:\\Users\\EnekoIglesiasGaldean\\source\\repos\\GestionDeErrores\\GestionDeErrores\\Libro.cpp",
               "RelativeToolTip": "GestionDeErrores\\Libro.cpp",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-26T07:54:50.021Z"
+              "WhenOpened": "2026-03-26T07:54:50.021Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Libro.h",
-              "DocumentMoniker": "C:\\Users\\inigo\\OneDrive\\Documentos\\Euneiz\\Tecnologia_de_la_programaci\u00F3n\\GestionDeErrores\\GestionDeErrores\\Libro.h",
+              "DocumentMoniker": "C:\\Users\\EnekoIglesiasGaldean\\source\\repos\\GestionDeErrores\\GestionDeErrores\\Libro.h",
               "RelativeDocumentMoniker": "GestionDeErrores\\Libro.h",
-              "ToolTip": "C:\\Users\\inigo\\OneDrive\\Documentos\\Euneiz\\Tecnologia_de_la_programaci\u00F3n\\GestionDeErrores\\GestionDeErrores\\Libro.h",
+              "ToolTip": "C:\\Users\\EnekoIglesiasGaldean\\source\\repos\\GestionDeErrores\\GestionDeErrores\\Libro.h",
               "RelativeToolTip": "GestionDeErrores\\Libro.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -84,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "GestionDeErrores.cpp",
-              "DocumentMoniker": "C:\\Users\\inigo\\OneDrive\\Documentos\\Euneiz\\Tecnologia_de_la_programaci\u00F3n\\GestionDeErrores\\GestionDeErrores\\GestionDeErrores.cpp",
+              "DocumentMoniker": "C:\\Users\\EnekoIglesiasGaldean\\source\\repos\\GestionDeErrores\\GestionDeErrores\\GestionDeErrores.cpp",
               "RelativeDocumentMoniker": "GestionDeErrores\\GestionDeErrores.cpp",
-              "ToolTip": "C:\\Users\\inigo\\OneDrive\\Documentos\\Euneiz\\Tecnologia_de_la_programaci\u00F3n\\GestionDeErrores\\GestionDeErrores\\GestionDeErrores.cpp",
+              "ToolTip": "C:\\Users\\EnekoIglesiasGaldean\\source\\repos\\GestionDeErrores\\GestionDeErrores\\GestionDeErrores.cpp",
               "RelativeToolTip": "GestionDeErrores\\GestionDeErrores.cpp",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-26T07:54:05.936Z",
               "EditorCaption": ""
